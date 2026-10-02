@@ -29,7 +29,7 @@ Quali file ho incluso nel commit e perché: ho incluso hello.c e osservazioni.md
 
 Come ho verificato che la versione provata sia presente su GitHub: abbiamo fatto git status e abbiamo visto che il main e up to date
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: dopo git pull
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: dopo git pull abbiamo visto che i file presenti su github sono stati importati sul pc locale, mentre non sappiamo qual e l utilizzo di git clone in quanto non c e scritto sulla repository
 
 ## Step 2 — Eco: prima prova
 
