@@ -25,11 +25,11 @@ Esito dopo la modifica e spiegazione della correzione: abbiamo scritto >output.t
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:
+Quali file ho incluso nel commit e perché: ho incluso hello.c e osservazioni.md perche git non puo fare push con file eseguibili ma solo con file emacs
 
-Come ho verificato che la versione provata sia presente su GitHub:
+Come ho verificato che la versione provata sia presente su GitHub: abbiamo fatto git status e abbiamo visto che il main e up to date
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: dopo git pull
 
 ## Step 2 — Eco: prima prova
 
