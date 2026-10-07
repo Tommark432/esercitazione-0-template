@@ -1,6 +1,6 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo: Jacopo Morucchio(jacomoru), Tommaso Marcucci(Tommark432)
+Gruppo: Jacopo Morucchio(jacomoru), Tommaso Marcucci(Tommark432) ////
 
 Componenti (nome, cognome e username GitHub di entrambi):
 
